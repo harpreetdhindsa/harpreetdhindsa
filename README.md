@@ -56,12 +56,6 @@ I apply my QA background to development by:
 
 ---
 
-## 🤝 Resume
-
-📄 [View My Resume](https://github.com/harpreetdhindsa/harpreetdhindsa/raw/main/HarpreetDhindsa.pdf)
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 Email: erharpreet08@gmail.com  
