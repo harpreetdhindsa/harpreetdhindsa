@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Harpreet Dhindsa
 
-💼 Software QA Analyst | 🌐 Aspiring Web Developer | 🎓 B.Tech (CSE) | Open-minded, Curious, Always Learning
-
-As a Software QA Analyst transitioning into web development, I combine a detail-oriented mindset with hands-on coding practice to create software that’s both reliable and user-friendly.
+Software Engineer | Full-Stack Developer (React · React Native · Node.js · MongoDB) | Quality-Focused & Always Learning
 
 ---
 
