@@ -7,7 +7,7 @@ Driven by curiosity and a passion for building reliable, intelligent, and user-f
 
 ## 🚀 About Me
 
-I’m a **UBC Software Development Bootcamp graduate** with a background in **Quality Assurance** and a growing focus on **AI-powered mobile development**.  
+I’m a **UBC Software Development Bootcamp graduate** with a background in **Software Quality Assurance** and a growing focus on **AI-powered mobile development**.  
 I recently built **MiniGigApp** — a gig-matching platform that uses **geolocation**, **AI fit-scoring**, and **real-time notifications** to connect clients and workers efficiently.  
 
 ---
